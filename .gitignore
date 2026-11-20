@@ -221,3 +221,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# AI trace snapshots and caches
+.pytest_cache/
+ai_trace*.json
